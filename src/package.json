@@ -1,0 +1,38 @@
+{
+  "name": "STAKD-telegram-telegraf-bot",
+  "version": "1.0.0",
+  "description": "STAKD Telegram airdrop/bounty bot that manages users input data and uses a referral system. Uses Mongodb for storing data Node v8+.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Newman",
+  "license": "MIT",
+  "dependencies": {
+    "ethereum-address": "0.0.4",
+    "hashids": "^1.2.2",
+    "mongodb": "3.0.7",
+    "mongoose": "^5.6.7",
+    "telegraf": "^3.6.4",
+    "telegraf-ratelimit": "^2.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stakdtech/TelegramAirdropBountyBot.git"
+  },
+  "keywords": [
+    "telegram",
+    "telegraf",
+    "es6",
+    "nodejs",
+    "node.js",
+    "telegram-bot",
+    "telegram-bots",
+    "telegram-api"
+  ],
+  "bugs": {
+    "url": "https://github.com/stakdtech/TelegramAirdropBountyBot/issues"
+  },
+  "homepage": "https://github.com/stakdtech/TelegramAirdropBountyBot#readme"
+}
