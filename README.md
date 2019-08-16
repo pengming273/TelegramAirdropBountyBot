@@ -77,5 +77,12 @@ You can also use regexp, for example this one checks case-insensitive version of
 bot.hears(/torino/i, (ctx) => ctx.reply("Someone said Torino!?"));
 ```
 
+## Tip jar
+```
+0xd6c7B10Bb1132464d8B1e64fCDd97e576063D4a2
+```
+
+
+
 For more informations, check Telegraf API: https://github.com/telegraf/telegraf.
 For inline support results, check: https://core.telegram.org/bots/api#inlinequeryresult.
